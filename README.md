@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Noghre Najafi😊
+# 👋 Hi , I'm Noghre Najafi😊
 
 I'm learning how to work with **biomedical data** using **R**.  
 So far, I’ve worked on a few **clinical datasets** as part of my undergraduate projects, and I’m preparing to start analyzing **RNA-seq data** soon.
