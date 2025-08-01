@@ -13,7 +13,7 @@ So far, I’ve worked on a few **clinical datasets** as part of my undergraduate
 ---
 
 ### 🛠 Tools I'm learning:
-- R(RStudio)  
+- R (RStudio)  
 - tidyverse (dplyr, ggplot2, tidyr)  
 - RMarkdown & GitHub
 
