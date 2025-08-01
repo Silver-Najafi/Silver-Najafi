@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Noghre Najafi😊
 
-<!--
-**Silver-Najafi/Silver-Najafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning how to work with **biomedical data** using **R**.  
+So far, I’ve worked on a few **clinical datasets** as part of my undergraduate projects, and I’m preparing to start analyzing **RNA-seq data** soon.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests:
+- Biostatistics & Health Data  
+- R programming  
+- RNA-seq & Microbiome analysis
+
+---
+
+### 🛠 Tools I'm learning:
+- R & RStudio  
+- tidyverse (dplyr, ggplot2, tidyr)  
+- RMarkdown & GitHub
+
+---
+
+### 🎯 Goals:
+- Improve my R skills with real-world data  
+- Document my learning and projects  
+- Apply for research internships in biomedical data analysis
+
+---
+
+### 📫 You can find me here:
+Feel free to connect: [github.com/silver-najafi](https://github.com/silver-najafi)
+
+
+
+---
+
+
