@@ -28,6 +28,7 @@ So far, I’ve worked on a few **clinical datasets** as part of my undergraduate
 
 ### 📫 You can find me here:
 Feel free to connect: [github.com/silver-najafi](https://github.com/silver-najafi)
+noghre.najafi.ac@gmail.com
 
 
 
