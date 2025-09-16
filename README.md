@@ -6,7 +6,7 @@ So far, I’ve worked on a few **clinical datasets** as part of my undergraduate
 ---
 
 ### 🧠 Interests:
-- Biostatistics & Health Data  
+- Biostatistics & Health Data Analysis  
 - R programming  
 - Machine Learning | ML
 - Python
