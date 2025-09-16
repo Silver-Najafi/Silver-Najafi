@@ -1,15 +1,15 @@
 # 👋 Hi , I'm Noghre Najafi😊
 
 I'm learning how to work with **biomedical data** using **R**.  
-So far, I’ve worked on a few **clinical datasets** as part of my undergraduate projects, and I’m preparing to start analyzing **RNA-seq data** soon.
+So far, I’ve worked on a few **clinical datasets** as part of my undergraduate projects.
 
 ---
 
 ### 🧠 Interests:
 - Biostatistics & Health Data  
 - R programming  
-- RNA-seq & Microbiome analysis
-
+- Machine Learning | ML
+- Python
 ---
 
 ### 🛠 Tools I'm learning:
